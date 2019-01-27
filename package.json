@@ -1,0 +1,19 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "es6-promise": "^4.2.2",
+    "express": "^4.16.2",
+    "find-remove": "^1.2.0",
+    "isomorphic-fetch": "^2.2.1",
+    "md5": "^2.2.1",
+    "youtube-mp3-downloader": "^0.5.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
