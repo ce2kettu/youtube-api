@@ -7,7 +7,7 @@
     "babel-core": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "es6-promise": "^4.2.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "find-remove": "^1.2.0",
     "isomorphic-fetch": "^2.2.1",
     "md5": "^2.2.1",
